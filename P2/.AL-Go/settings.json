@@ -1,5 +1,8 @@
 {
-  "country": "us",
+  "testFolders": [],
+  "AppSourceCopMandatoryAffixes": [
+    "cus"
+  ],
   "appFolders": [],
-  "testFolders": []
+  "country": "us"
 }
